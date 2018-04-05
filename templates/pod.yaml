@@ -17,4 +17,4 @@ spec:
   volumes:
     - name: docroot
       hostPath:
-        path:   /opt/simple-k8s-example/src
+        path: /opt/simple-k8s-example/src

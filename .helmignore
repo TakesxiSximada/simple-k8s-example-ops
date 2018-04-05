@@ -1,0 +1,15 @@
+*.bak
+*.swp
+*.tmp
+*.tmproj
+*~
+.DS_Store
+.bzr/
+.bzrignore
+.git/
+.gitignore
+.hg/
+.hgignore
+.idea/
+.project
+.svn/
